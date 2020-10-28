@@ -15,3 +15,5 @@ Used primarily for...
 ```html
 <input type="text" />
 ```
+
+<pre><code class="language-html"><input type=""></code></pre>
